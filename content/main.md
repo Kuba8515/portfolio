@@ -4,7 +4,7 @@ hero:
     icon: briefcase-outline
     link: '/#portofolio'
     text: My work
-  heading: 'I''m Paco Cu, and I create'
+  heading: "I'm Jakub Gazdziak, and I create"
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
@@ -21,16 +21,14 @@ hero:
       link: 'https://linkedin.com'
       show: true
   typed:
-    - text: fast websites.
-    - text: beautiful logos.
-    - text: great experiences.
+    - text: fully functional websites.
+    - text: creative logos.
+    - text: interesting experiences.
 about:
   heading: Who am I?
   image: /img/about.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    I'm an upcoming Full Stack Web Developer currently living in Vienna, Austria. I'm a student at UpLeveled GmbH, doing my best to gain basic knowledge in Frontend and Backend Webdevelopment. My goal is to start a career in a tech company.
 features:
   - icon: monitor-screenshot
     text: >
@@ -77,4 +75,3 @@ portfolio:
 footer:
   text: © John Doe
 ---
-
