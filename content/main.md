@@ -73,5 +73,5 @@ portfolio:
       title: UIoUXy
   title: My work
 footer:
-  text: © John Doe
+  text: © Jakub Gazdziak
 ---
